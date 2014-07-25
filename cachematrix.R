@@ -3,6 +3,8 @@
 
 ## Write a short comment describing this function
 
+## just duplicate the examle given in the coursera web page :)
+
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
   set <- function(y) {
@@ -20,6 +22,8 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
+
+## just duplicate the examle given in the coursera web page :)
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
